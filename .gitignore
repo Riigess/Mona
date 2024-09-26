@@ -166,3 +166,4 @@ cython_debug/
 #Blocking changes intended for rewrite-kotlin
 .gradle/*
 .idea/*
+settings.properties
